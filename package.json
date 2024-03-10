@@ -1,0 +1,20 @@
+{
+  "name": "filecompression",
+  "version": "1.0.0", 
+  "description": "File compression is the main process of compressing or squeezing data files",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noueletta/filecompression.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "noulett",
+  "license": "MIT"
+}
